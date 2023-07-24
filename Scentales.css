@@ -430,15 +430,15 @@ h7 {
     .container .text {
         top: 30%;
     }
-    /* Adjusting font size for mobile */
+    /* Adjusting font size and margin for mobile */
     h2 {
         font-size: 18px;
-        margin-left: 5pc;
+        margin-left: 7pc;
     }
     /* Adjusting font size and margin for mobile */
     h3 {
         font-size: 16px;
-        margin-left: 5pc;
+        margin-left: 7pc;
     }
     /* Adjusting font size for mobile */
     .quote {
