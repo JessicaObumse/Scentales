@@ -433,11 +433,12 @@ h7 {
     /* Adjusting font size for mobile */
     h2 {
         font-size: 18px;
+        margin-left: 5pc;
     }
     /* Adjusting font size and margin for mobile */
     h3 {
         font-size: 16px;
-        margin-left: 2pc;
+        margin-left: 5pc;
     }
     /* Adjusting font size for mobile */
     .quote {
